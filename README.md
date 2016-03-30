@@ -4,9 +4,23 @@ University of California, Santa Barbara, September 2013 - December 2016 ( Expect
 Bachelor of Science in Computer Science
 
 ### Projects
+
+#### [Movielens](https://github.ucsb.edu/ouyang/movielens)
+An implementation of a k-nearest-neighbor collaborative filtering algorithm for recommender systems with different distance/similarity measurement methods.
+
+#### [HTTP/HTTPS MITM Proxy](https://github.com/tylerwowen/mitm_proxy)
+An HTTP/HTTPS proxy that also supports man in the middle attacks. 
+
+#### [FTP Swarming Download Client](https://github.com/tylerwowen/FTP_Client)
+An FTP swarming download client implemented in C at socket level.
+
+#### [GOLDDigger](http://tylerwowen.github.io/golddigger/)
+Third-party GOLD client application for UCSB students. 
+
 #### WeCode
 Web-based collaboration app for online office hours.
-I designed front-end and back-end architecture, and implemented real-time code editing.
+I designed front-end and back-end architecture, and implemented real-time code editing, file system, and share terminal.
+Won [the First Place](http://www.cs.ucsb.edu/spotlights/capstone-award-winners-victors-go-spoils) in the Capstone competition.
 
 #### [QRBuddy](http://tylerwowen.github.io/wechatbuddy/)
 Show your QR code on your pebble.  
