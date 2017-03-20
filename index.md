@@ -22,7 +22,7 @@ An HTTP/HTTPS proxy that also supports man in the middle attacks.
 #### + [FTP Swarming Download Client](https://github.com/tylerwowen/FTP_Client)
 An FTP swarming download client implemented in C at socket level.
 
-#### + WeCode
+#### + [WeCode](https://github.com/tylerwowen/wecode)
 Web-based collaboration app for online office hours.
 I designed front-end and back-end architecture, and implemented real-time code editing, file system, and share terminal.
 Won [the First Place](http://www.cs.ucsb.edu/spotlights/capstone-award-winners-victors-go-spoils) in the Capstone competition.
