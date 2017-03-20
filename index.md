@@ -1,7 +1,10 @@
 
+I am a Software Engineer working at Microsoft. I am in Studio Saga, where the Edge browser is being made.  
+
 ### Education
-University of California, Santa Barbara, September 2013 - December 2016 ( Expected )  
+University of California, Santa Barbara, September 2013 - December 2016
 Bachelor of Science in Computer Science
+Graduated with High Honors and Distinction in the Major
 
 ### Projects
 
