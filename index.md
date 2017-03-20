@@ -8,7 +8,7 @@ Graduated with High Honors and Distinction in the Major
 
 ### Projects
 
-#### + [Movielens](https://github.ucsb.edu/ouyang/movielens)
+#### + [Movielens](https://github.com/tylerwowen/movielens)
 An implementation of a k-nearest-neighbor (k-NN) collaborative filtering algorithm for recommender systems with different distance/similarity measurement methods.
 
 Related work: [LiRa: A New Likelihood-Based Similarity Score for Collaborative Filtering](https://arxiv.org/abs/1608.08646)
